@@ -1,0 +1,20 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name> Follow our Github</name>
+			<url>https://github.com/Auxilium-Development</url>
+			<iconclass>fab fa-github</iconclass>
+		</link>
+        <link>
+            <name> Support Us!</name>
+            <url>http://paypal.me/m4csdevelopment</url>
+            <iconclass>fab fa-paypal</iconclass>
+        </link>
+        <link>
+            <name> Join our Discord!</name>
+            <url>https://discord.gg/XVVmXRW</url>
+            <iconclass>fab fa-discord</iconclass>
+        </link>
+
+	</footerlinks>
+</repo>
