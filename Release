@@ -6,3 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Official Stable Repo for Auxilium Development.
+MD5Sum:
+ 0a06b28bef3d4453b5922297e02e72ea 35597 Packages
+ fdf0520a2e292bb7036f392381ef7bc3 9801 Packages.bz2
+ 2fce3086b7c85b2c12f2de4595ffe291 9712 Packages.xz
+SHA256:
+ b79a3c096b670ab929639c65f3badfd2b0a69549c6e5c88ddaa242138c19ee3b 35597 Packages
+ 18bf5e7dadb6908ee007f36ac6c8579e8761203fef74d244f673a5033e909e0e 9801 Packages.bz2
+ 8e6cbfe9ec2a7e8a52aab943404f6810a80bbc3d87512214a1d47d67a6f52525 9712 Packages.xz
+
